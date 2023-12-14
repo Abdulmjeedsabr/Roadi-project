@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "467441724716",
+    "firebase_url": "https://roadi-708f1-default-rtdb.firebaseio.com",
+    "project_id": "roadi-708f1",
+    "storage_bucket": "roadi-708f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467441724716:android:7e5cecff1f841c9dc35089",
+        "android_client_info": {
+          "package_name": "me.testcompany.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467441724716-1p3a4jdidt4co37s45eq1de5l8ocgfdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MkIZlGUz8x0uost8Vw0R_jLYbYCTrGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467441724716-1p3a4jdidt4co37s45eq1de5l8ocgfdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467441724716:android:715f025562ae6811c35089",
+        "android_client_info": {
+          "package_name": "me.testcompany.roadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467441724716-1p3a4jdidt4co37s45eq1de5l8ocgfdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MkIZlGUz8x0uost8Vw0R_jLYbYCTrGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467441724716-1p3a4jdidt4co37s45eq1de5l8ocgfdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
